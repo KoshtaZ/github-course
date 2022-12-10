@@ -1,8 +1,7 @@
 #GITHUB COURSE
 
-Arquivo da aula de git e github para iniciantes.
-esta ser bom aprender
+Aprendendo comandos e funcionalidade do git 
+Pois chegou o momento de guardar todos meus projetos num servidor remoto
 
-Aprendendo como o git funciona
-
-upa...
+Se estas a ver isso, é porque correu tudo bem. 
+08.12.2022 dia em que o Brasil eliminado da copa do qatar 2022
